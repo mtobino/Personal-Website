@@ -37,4 +37,6 @@ Teacher ID: 841986754, Name: Michael Schillo
 
 ## Project Link
 The project is in a private repository at the request of a professor due to it being a school project but it can be shared if requested.
-If access is requested/granted, the project can be found [here](https://github.com/mtobino/DAA_Projects/tree/master/src/main/java/extraCreditProject)
+If access is requested/granted, the project can be found below 
+
+[:simple-github: Project Link](https://github.com/mtobino/DAA_Projects/tree/master/src/main/java/extraCreditProject){ .md-button .md-button--primary }

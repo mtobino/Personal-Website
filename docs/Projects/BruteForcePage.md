@@ -16,9 +16,13 @@ p cnf 5 21
 3 -2 4 0
 3 5 -4 0
 ```
-The rest of the satisfiable file with 5 variables can be seen [here](../cnfFiles/s5.cnf)
-and another file with 32 variables that is unsatisfiable can be seen [here](../cnfFiles/u32.cnf)
+The rest of the satisfiable file with 5 variables can be seen below
 
+[:material-text: CNF File with 5 variables](../cnfFiles/s5.cnf){ .md-button .md-button--primary }
+
+Another file with 32 variables that is unsatisfiable can be seen below
+
+[:material-text: CNF File with 32 variables](../cnfFiles/u32.cnf){ .md-button .md-button--primary }
 
 ## Output
 
@@ -30,4 +34,7 @@ and how long it took to run the entire program.
 ## Project Link
 
 The project is in a private repository at the request of a professor due to it being a school project but it can be shared if requested.
-If access is requested/granted, the project can be found [here](https://github.com/mtobino/DAA_Projects/tree/master/src/main/java/bruteForceProject)
+If access is requested/granted, the project can be found below 
+
+[:simple-github: Project Link](https://github.com/mtobino/DAA_Projects/tree/master/src/main/java/bruteForceProject){ .md-button .md-button--primary }
+
