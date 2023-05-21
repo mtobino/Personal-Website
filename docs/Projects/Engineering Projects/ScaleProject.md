@@ -5,13 +5,13 @@ The goal of the project was to create a scale from mostlty scratch using parts w
 create a working scale. The scale must have teo buttons, one for taring and another to switch units from ounces to grams. 
 
 ## Final Product Drawing
-[SolidWorks CAD Drawing](../../pdfs/Tobino_Drawing.PDF){ .md-button .md-button--primary }
+[:material-file-pdf-box: SolidWorks CAD Drawing](../../pdfs/Tobino_Drawing.PDF){ .md-button .md-button--primary }
 
 ## Actual Final Product
 ![Picture of Scale](../../img/Tobino_ScalePhoto.JPG)
 
 ## Instruction Manual
-[Instruction Manual PDF](../../pdfs/Tobino_Calibration.pdf){ .md-button .md-button--primary }
+[:material-file-pdf-box: Instruction Manual PDF](../../pdfs/Tobino_Calibration.pdf){ .md-button .md-button--primary }
 
 ## Code
 [:simple-arduino: Pending Professor Approval](#){ .md-button .md-button--primary }
