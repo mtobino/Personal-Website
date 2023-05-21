@@ -5,4 +5,4 @@
 ## Email
 Right click to copy email address
 
-[:material-email: Email Address](mtobino415@gmail.com)
+[:material-email: mtobino415@gmail.com](mtobino415@gmail.com)
