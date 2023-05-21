@@ -12,7 +12,7 @@ The GUI will take in the information necessary
 
 ![GUI Input Image](../img/GUIInput.png) 
 
-# Output
+## Output
 ![GUI Output Image](../img/GUIOutput.png) 
 
 ![GUI Table Image](../img/GUITable.png) 
