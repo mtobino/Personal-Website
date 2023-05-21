@@ -5,4 +5,4 @@
 ## Email
 Right click to copy email address
 
-[:material-email: Email Address](mtobino415@gmail.com){ .md-button .md-button--primary }
+[:material-email: Email Address](mtobino415@gmail.com)
