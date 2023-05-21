@@ -23,7 +23,7 @@ Sudoku 9x9 Board Example
 ```
 ## Output
 The program will test 6 sudoku board with sizes ranging from 4x4 to 25x25. The code will solve each board, display the solution to the board, and how long it took to
-complete the board. At the end the program will state how long it had took to complete all 6 board. 
+complete the boards in milliseconds. At the end the program will state how long it had took to complete all 6 boards in milliseconds. 
 
 ```
 Testing: puz3
