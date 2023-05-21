@@ -14,7 +14,7 @@ create a working scale. The scale must have teo buttons, one for taring and anot
 [Instruction Manual PDF](../../pdfs/Tobino_Calibration.pdf){ .md-button .md-button--primary }
 
 ## Code
-Pending professor approval to post on this website.
+[:simple-arduino: Pending Professor Approval](#){ .md-button .md-button--primary }
 
 ## Product Reveal Video
 [:simple-youtube: Link to Video](https://youtu.be/iGQjzYp8Jbc){ .md-button .md-button--primary }

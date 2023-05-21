@@ -24,8 +24,8 @@ The goal of this project was to design, create, and code a video game from scrat
 ## You Win Screen
 ![Image of YW Screen](../../img/GameYouWin.png)
 
-## Unreal Files
-Pending professor approval to post on this website
+## Unreal Engine Files
+[:material-folder-zip: Pending Professor Approval](#){ .md-button .md-button--primary }
 
 ## Game Trailer
 [:simple-youtube: Link to Video](https://youtu.be/Oi8nNX__ctc){ .md-button .md-button--primary }
