@@ -28,4 +28,4 @@ The goal of this project was to design, create, and code a video game from scrat
 [:material-folder-zip: Pending Professor Approval](#){ .md-button .md-button--primary }
 
 ## Game Trailer
-[:simple-youtube: Link to Video](https://youtu.be/Oi8nNX__ctc){ .md-button .md-button--primary }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oi8nNX__ctc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
