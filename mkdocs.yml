@@ -2,6 +2,8 @@ site_name: Matthew Tobino
 theme:
   name: material
   favicon: img/favicon.ico
+  icon:
+    logo: material-alpha-t-circle
   features:
     - header.autohide
     - navigation.top
