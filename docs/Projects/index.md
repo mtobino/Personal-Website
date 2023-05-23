@@ -1,0 +1,17 @@
+# Projects
+![Generic Pic](../img/ProjectPic.jpg){ align=right width="400" }
+There are many projects I would like to share, but since they are school projects, I have to keep their code repositories private. By building this website, I am able to 
+show off these projects without giving away the answers that the professors would like to keep hidden. This website will be my place to show off my achievements without
+revealing the answers. However, I have been given permission to share the answers with anyone who is not a student of the class the project was in. 
+
+!!! note "Links to Project Pages"
+    === "Comp Sci"
+        * [Brute Force Project](../Projects/Comp%20Sci%20Projects/BruteForcePage.md)
+        * [Call Center Project](../Projects/Comp%20Sci%20Projects/CallCenterProject.md)
+        * [Small Skill Demo Project](../Projects/Comp%20Sci%20Projects/ECProject.md)
+        * [Sudoku Solver Project](../Projects/Comp%20Sci%20Projects/SudokuSolverPage.md)
+        * [Video Game Project](../Projects/Comp%20Sci%20Projects/VideoGameProject.md)
+    === "Engineering"
+        * [Scale Project](../Projects/Engineering%20Projects/ScaleProject.md)
+        * [Rubber Tire Project](../Projects/Engineering%20Projects/TireProject.md)
+        * [Toy Project](../Projects/Engineering%20Projects/ToyProject.md)
