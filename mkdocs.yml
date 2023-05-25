@@ -46,24 +46,7 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-
-nav:
-  - index.md
-  - About Me: About Me\index.md
-  - Contact Me: Contact Me\index.md
-  - Projects: 
-    - Projects\index.md
-    - Comp Sci Projects: 
-      - Brute Force Solving: Projects\Comp Sci Projects\BruteForcePage.md   
-      - Call Center Simulation: Projects\Comp Sci Projects\CallCenterProject.md 
-      - Sudoku Solver: Projects\Comp Sci Projects\SudokuSolverPage.md
-      - Video Game: Projects\Comp Sci Projects\VideoGameProject.md
-      - Small Skills Demo: Projects\Comp Sci Projects\ECProject.md
-    - Engineering Projects:
-      - Custom Kitchen Scale: Projects\Engineering Projects\ScaleProject.md 
-      - RC Tire: Projects\Engineering Projects\TireProject.md
-      - Happy Meal Toy: Projects\Engineering Projects\ToyProject.md
-
+          
 extra:
   social:
     - icon: fontawesome/brands/github-alt
