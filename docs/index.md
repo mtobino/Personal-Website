@@ -7,7 +7,7 @@ semester so far. I feel taking these engineering classes helped me to have an op
 efficient manner. 
 
 ## Resume
-[:material-file-download: Resume](pdfs/Resume.pdf){ .md-button .md-button--primary }
+<iframe src="../pdfs/Resume.pdf" width="100%" height="500px"> </iframe>
 
 ## Skills
 ??? tip "Operating Systems"
