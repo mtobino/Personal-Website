@@ -1,5 +1,5 @@
 # Home
-## About Me
+
 ![ProfilePic](img/ProPhoto.jpg){ align=right width="200" }
 I am a rising senior at Rowan Unveristy pursuing a Bachelor's Degree in Computer Science. I originally started out as a Mechanical Engineering Student, but I found I 
 had a greater aptittude for coding than physics. However, that did not stop me from succeeding in the engineering courses as I maintained Dean's List throughout every 
