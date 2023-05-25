@@ -46,11 +46,6 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-  - pymdownx.pathconverter:
-      base_path: 'Personal-Website'
-      relative_path: ''
-      absolute: false 
-      tags: 'a script img link object embed'
 
 nav:
   - index.md

@@ -28,9 +28,10 @@ The program will simulate a call center based on the information gathered from a
 
 ## Documentation and Report
 The final report and documentation to the project can be downloaded or viewed below.
-<iframe src="../../../pdfs/Call%20Center%20Deliverable.pdf" width="100%" height="500px"> </iframe>
 
+[:material-file-pdf-box: Download/View Report](../../pdfs/Call%20Center%20Deliverable.pdf){ .md-button .md-button--primary }
 
 ## Project Link
 Project is open and available to the public.
+
 [:simple-github: Project Link](https://github.com/mtobino/call-center-simulator){ .md-button .md-button--primary }

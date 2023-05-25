@@ -16,5 +16,6 @@ The goal was to design a set of tires to be attached to an RC car and complete a
 ## Final Report on Design
 The final report and documentation to the project can be downloaded or viewed below. 
 
-<iframe src="../../../pdfs/TireProjectFinal.pdf" width="100%" height="500px"> </iframe>
+[:material-file-pdf-box: Download/View Report](../../pdfs/TireProjectFinal.pdf){ .md-button .md-button--primary }
+
 
