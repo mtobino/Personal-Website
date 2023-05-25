@@ -6,12 +6,12 @@ revealing the answers. However, I have been given permission to share the answer
 
 !!! note "Links to Project Pages"
     === "Comp Sci"
-        * [Brute Force Project](../Projects/Comp%20Sci%20Projects/BruteForcePage.md)
-        * [Call Center Project](../Projects/Comp%20Sci%20Projects/CallCenterProject.md)
-        * [Small Skill Demo Project](../Projects/Comp%20Sci%20Projects/ECProject.md)
-        * [Sudoku Solver Project](../Projects/Comp%20Sci%20Projects/SudokuSolverPage.md)
-        * [Video Game Project](../Projects/Comp%20Sci%20Projects/VideoGameProject.md)
+        * [Brute Force Solving](../Projects/Comp%20Sci%20Projects/BruteForcePage.md)
+        * [Call Center Simulation](../Projects/Comp%20Sci%20Projects/CallCenterProject.md)
+        * [Sudoku Solver](../Projects/Comp%20Sci%20Projects/SudokuSolverPage.md)
+        * [Video Game ](../Projects/Comp%20Sci%20Projects/VideoGameProject.md)
+        * [Small Skill Demo](../Projects/Comp%20Sci%20Projects/ECProject.md)
     === "Engineering"
-        * [Scale Project](../Projects/Engineering%20Projects/ScaleProject.md)
-        * [Rubber Tire Project](../Projects/Engineering%20Projects/TireProject.md)
-        * [Toy Project](../Projects/Engineering%20Projects/ToyProject.md)
+        * [Custom Kitchen Scale](../Projects/Engineering%20Projects/ScaleProject.md)
+        * [RC Tire](../Projects/Engineering%20Projects/TireProject.md)
+        * [Happy Meal Toy](../Projects/Engineering%20Projects/ToyProject.md)
