@@ -17,4 +17,4 @@ create a working scale. The scale must have teo buttons, one for taring and anot
 [:simple-arduino: Pending Professor Approval](#){ .md-button .md-button--primary }
 
 ## Product Reveal Video
-[:simple-youtube: Link to Video](https://youtu.be/iGQjzYp8Jbc){ .md-button .md-button--primary }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iGQjzYp8Jbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
