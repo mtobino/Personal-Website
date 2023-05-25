@@ -12,6 +12,5 @@ spinner that had ball bearings on the wings to add additional fidgeting capabili
 ![Picture of Toy](../../img/fidgetwidgetpic.png)
 
 ## Final Report of Project
-The final report and documentation to the project can be downloaded
-
-[:material-file-pdf-box: Final Deliverable](../../pdfs/ToyProjectFinal.pdf){ .md-button .md-button--primary }
+The final report and documentation to the project can be downloaded or viewed below.
+<iframe src="../../../pdfs/ToyProjectFinal.pdf" width="100%" height="500px"> </iframe>

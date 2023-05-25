@@ -10,22 +10,27 @@ The program will simulate a call center based on the information gathered from a
 [:simple-github: Andy Pham](https://github.com/Phamandy2000){ .md-button .md-button--primary }
 
 ## Input
-The GUI will take in the information necessary
-
-![GUI Input Image](../../img/GUIInput.png) 
+<figure markdown>
+  ![GUI Input Image](../../img/GUIInput.png) 
+  <figcaption>The GUI will take in the information necessary</figcaption>
+</figure>
 
 ## Output
-![GUI Output Image](../../img/GUIOutput.png) 
+<figure markdown>
+  ![GUI Output Image](../../img/GUIOutput.png)
+  <figcaption>Program Output Displayed on the GUI</figcaption>
+</figure>
 
-![GUI Table Image](../../img/GUITable.png) 
+<figure markdown>
+  ![GUI Table Image](../../img/GUITable.png)
+  <figcaption>Deeper Look at the Customers Table</figcaption>
+</figure>
 
 ## Documentation and Report
-The final report and documentation to the project can be downloaded
-
-[:material-file-pdf-box: Final Deliverable](../../pdfs/Call%20Center%20Deliverable.pdf){ .md-button .md-button--primary }
+The final report and documentation to the project can be downloaded or viewed below.
+<iframe src="../../../pdfs/Call%20Center%20Deliverable.pdf" width="100%" height="500px"> </iframe>
 
 
 ## Project Link
-Project is open and available to the public
-
+Project is open and available to the public.
 [:simple-github: Project Link](https://github.com/mtobino/call-center-simulator){ .md-button .md-button--primary }

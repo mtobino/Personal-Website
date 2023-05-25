@@ -6,7 +6,6 @@ theme:
     - header.autohide
     - navigation.top
     - navigation.indexes
-    # - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -45,9 +44,28 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - pymdownx.pathconverter:
+      base_path: 'Personal-Website'
+      relative_path: ''
+      absolute: false 
+      tags: 'a script img link object embed'
 
-
-
+nav:
+  - index.md
+  - About Me: About Me\index.md
+  - Contact Me: Contact Me\index.md
+  - Projects: 
+    - Projects\index.md
+    - Comp Sci Projects: 
+      - Brute Force Solving: Projects\Comp Sci Projects\BruteForcePage.md   
+      - Call Center Simulation: Projects\Comp Sci Projects\CallCenterProject.md 
+      - Sudoku Solver: Projects\Comp Sci Projects\SudokuSolverPage.md
+      - Video Game: Projects\Comp Sci Projects\VideoGameProject.md
+      - Small Skills Demo: Projects\Comp Sci Projects\ECProject.md
+    - Engineering Projects:
+      - Custom Kitchen Scale: Projects\Engineering Projects\ScaleProject.md 
+      - RC Tire: Projects\Engineering Projects\TireProject.md
+      - Happy Meal Toy: Projects\Engineering Projects\ToyProject.md
 
 extra:
   social:
