@@ -6,7 +6,7 @@ large files will a lot of input.
 
 ## CNF Input Files
 
-The inputed files follow a CNF file format that the program will be able to read through. CNF header and a few line shown below
+The input files follow a CNF file format that the program can read through. The CNF header and a few lines are shown below
 
 ```
 c A SAT instance that has 21 clauses and 5 variables
@@ -17,11 +17,11 @@ p cnf 5 21
 3 -2 4 0
 3 5 -4 0
 ```
-The rest of the satisfiable file with 5 variables can be seen below
+The rest of the satisfiable file with 5 variables can be downloaded seen below.
 
 [:material-text: CNF File with 5 variables](../../cnfFiles/s5.cnf){ .md-button .md-button--primary }
 
-Another file with 32 variables that is unsatisfiable can be seen below
+Another file with 32 variables that is unsatisfiable can be downloaded seen below.
 
 [:material-text: CNF File with 32 variables](../../cnfFiles/u32.cnf){ .md-button .md-button--primary }
 
@@ -34,8 +34,8 @@ and how long it took to run the entire program.
 
 ## Project Link
 
-The project is in a private repository at the request of a professor due to it being a school project but it can be shared if requested.
-If access is requested/granted, the project can be found below 
+The project is in a private repository at a professor's request because it is a school project but can be shared if requested.
+If access is requested/granted, the project can be found below. 
 
-[:simple-github: Project Link](https://github.com/mtobino/DAA_Projects/tree/master/src/main/java/bruteForceProject){ .md-button .md-button--primary }
+[:simple-github: Project Link](https://github.com/mtobino/DAA_Projects/tree/master/src/main/java/bruteForceProjectRevised){ .md-button .md-button--primary }
 
