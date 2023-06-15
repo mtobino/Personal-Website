@@ -1,8 +1,8 @@
 # Custom Scale Project
 
 ## Description
-The goal of the project was to create a scale from mostlty scratch using parts we machined in class, a 3D printed frame, and an Arduino board with custom code to 
-create a working scale. The scale must have teo buttons, one for taring and another to switch units from ounces to grams. 
+The project's goal was to create a scale from scratch using parts we machined in class, a 3D printed frame, and an Arduino board with custom code to 
+create a working scale. The scale must have two buttons, one for taring and another to switch units from ounces to grams. 
 
 ## Final Product Drawing
 SolidWorks CAD drawing can be downloaded or viewed below.
@@ -19,7 +19,10 @@ Instruction manual can be downloaded or viewed below.
 [:material-file-pdf-box: Download/View](../../pdfs/Tobino_Calibration.pdf){ .md-button .md-button--primary }
 
 ## Code
-[:simple-arduino: Pending Professor Approval](#){ .md-button .md-button--primary }
+The project code is in a private repository at a professor's request because it is a school project but can be shared if requested.
+If access is requested/granted, the project can be found below. 
+
+[:simple-github: Project Link](https://github.com/mtobino/Scale-Project){ .md-button .md-button--primary }
 
 ## Product Reveal Video
 
