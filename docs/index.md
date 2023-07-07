@@ -1,9 +1,9 @@
 # Home
 
 ![ProfilePic](img/ProPhoto.jpg){ align=right width="200" }
-I am a rising senior at Rowan Unveristy pursuing a Bachelor's Degree in Computer Science. I originally started out as a Mechanical Engineering Student, but I found I 
-had a greater aptittude for coding than physics. However, that did not stop me from succeeding in the engineering courses as I maintained Dean's List throughout every 
-semester so far. I feel taking these engineering classes helped me to have an open mind towards my coding and helps me to tackle my problems in a better and more
+I am a rising senior at Rowan University pursuing a Bachelor's Degree in Computer Science. I originally started out as a Mechanical Engineering Student, but I found I 
+had a greater aptitude for coding than physics. However, that did not stop me from succeeding in the engineering courses as I have maintained Dean's List throughout every 
+semester so far. I feel taking these engineering classes helped me to have an open mind toward my coding and helped me to tackle my problems in a better and more
 efficient manner. 
 
 ## Resume
@@ -18,10 +18,13 @@ efficient manner.
 ??? tip "Programming Languages"
     * :material-language-java: Java
     * :simple-python: Python
-    * C
-    * C++
+    * :simple-javascript: JavaScript
+    * MIPS Assembly Language
+    * C/C++
     * MatLab
+    * :material-bash: Bash Scripting
     * :simple-arduino: Arduino
+    * :simple-yaml: YAML, :material-code-json: JSON, :material-file-xml-box: XML,:simple-markdown: Markdown
 
 ??? tip "Development Tools"
     * :simple-git:Git,  :simple-github: GitHub
@@ -29,6 +32,22 @@ efficient manner.
     * :material-microsoft-visual-studio-code: VS Code
     * :simple-eclipseide: Eclipse
     * :bootstrap-BlueJ-Logo: BlueJ
+    
+??? tip "Relevant Coursework"
+    * Data Structures and Algorithms
+    * Design and Analysis of Algorithms
+    * Computer Organization (MIPS Assembly Language) 
+    * Computer Lab Techniques (C and Linux)
+    * Discrete Structures
+    * Foundations of Computer Science
+    * Intro to Computer Game Design and Development
+    * Intro to Scientific Programming MATLAB/CAD
+    * Intro to Systems Simulation and Modeling
+    * Intro to Object Oriented Programming (Java)
+    * Object Oriented Programming and Data Abstraction (Java)
+    * First-Year Engineering Clinic
+    * Sophomore Engineering Clinic
+    * Public Speaking
 
 ## Work Experience 
 ??? success "Rowan University, :octicons-location-16: Glassboro, NJ"
@@ -71,5 +90,5 @@ efficient manner.
     <div style="clear: both;"></div>
 
     * Worked at the outdoor podium to take orders and send customers through the wash
-    * Developed communication skills with managers to seemlessly aid customers with their orders
+    * Developed communication skills with managers to seamlessly aid customers with their orders
     * Cleaned the bay and pit of the car wash after the wash had closed
