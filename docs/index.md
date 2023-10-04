@@ -73,7 +73,7 @@ efficient manner.
 ??? success "Flynn O'Hara Uniforms, :octicons-location-16: Holmdel, NJ"
      <div>
         <div style="float:left">**Sales Associate**</div>
-        <div style="float:right">**:material-calendar-clock: Jun 2019 - Aug 2022**</div>
+        <div style="float:right">**:material-calendar-clock: Jun 2019 - Aug 2023**</div>
     </div>
     <div style="clear: both;"></div>
 
