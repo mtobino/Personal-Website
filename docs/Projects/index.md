@@ -6,10 +6,11 @@ revealing the answers. However, I have been given permission to share the answer
 
 !!! note "Links to Project Pages"
     === "Comp Sci"
-        * [Brute Force Solving](../Projects/Comp%20Sci%20Projects/BruteForcePage.md)
-        * [Call Center Simulation](../Projects/Comp%20Sci%20Projects/CallCenterProject.md)
+        * [Mission Training Optimizer](../Projects/Comp%20Sci%20Projects/MissionOptimizer.md)
         * [Sudoku Solver](../Projects/Comp%20Sci%20Projects/SudokuSolverPage.md)
-        * [Video Game ](../Projects/Comp%20Sci%20Projects/VideoGameProject.md)
+        * [Call Center Simulation](../Projects/Comp%20Sci%20Projects/CallCenterProject.md)
+        * [Brute Force Solving](../Projects/Comp%20Sci%20Projects/BruteForcePage.md)
+        * [Custom Platforming Video Game](../Projects/Comp%20Sci%20Projects/VideoGameProject.md)
         * [Small Skill Demo](../Projects/Comp%20Sci%20Projects/ECProject.md)
     === "Engineering"
         * [Custom Kitchen Scale](../Projects/Engineering%20Projects/ScaleProject.md)
