@@ -9,8 +9,8 @@ Hello all, My name is Matthew Tobino. I am an undergrad student an Rowan Univeri
 
 ??? note "Favorite Video Games"
     * :simple-playstation: Kingdom Hearts 2
-    * :material-nintendo-switch: Super Mario Odessey
-    * :material-nintendo-switch: Legend of Zelda: Tears of the Kingdom (GOTY calling it now)
+    * :material-nintendo-switch: Super Mario Odyssey
+    * :material-nintendo-switch: Legend of Zelda: Tears of the Kingdom 
 
 !!! note "Honors and Awards"
     * :fontawesome-solid-graduation-cap: Upsilon Pi Epsilon - International Honor Society for the Computing and Information Disciplines
@@ -19,6 +19,6 @@ Hello all, My name is Matthew Tobino. I am an undergrad student an Rowan Univeri
     * Rowan Merit Scholarship
 
 !!! note "Clubs and Associations"
-    * :fontawesome-solid-graduation-cap: Upsilon Pi Epsilon - International Honor Society for the Computing and Information Disciplines
-    * :flag_ec: United Latino Association
-    * :snowboarder: Snowboard and Ski Club
+    * :fontawesome-solid-graduation-cap: Senator for Upsilon Pi Epsilon - International Honor Society for the Computing and Information Disciplines
+    * :snowboarder: Snowboard and Ski Club Member
+    * :flag_ec: United Latino Association Member

@@ -2,7 +2,7 @@
 
 ## Description
 The project will take in a formatted sudoku file, create a CNF file to solve it, pass it through the SAT4j solver to retrieve a solution, decode the solution, and print it out. 
-The project ultilizes the transform and conquer algorithm to transform a sudoku board into a SAT problem, solve the SAT problem, and transform the SAT solution back into the solution for a sudoku board. 
+It ultilizes the transform and conquer algorithm to transform a sudoku board into a SAT problem, solve the SAT problem, and transform the SAT solution back into the solution for a sudoku board. 
 
 ## Sudoku Inputs
 The sudoku files follow a format where the first two numbers are the subgrid's length and width and the remaining numbers are the board itself. The 0's seen are meant
