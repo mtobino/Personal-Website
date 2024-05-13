@@ -9,10 +9,10 @@ spinner that had ball bearings on the wings to add additional fidgeting capabili
 [:material-email: Zachary Waldman](mailto:waldma63@students.rowan.edu){ .md-button .md-button--primary }
 
 ## Final Design
-![Picture of Toy](../../img/fidgetwidgetpic.png)
+![Picture of Toy](../../content/img/fidgetwidgetpic.png)
 
 ## Final Report of Project
 The final report and documentation to the project can be downloaded or viewed below.
 
-[:material-file-pdf-box: Download/View Report](../../pdfs/ToyProjectFinal.pdf){ .md-button .md-button--primary }
+[:material-file-pdf-box: Download/View Report](../../content/pdfs/ToyProjectFinal.pdf){ .md-button .md-button--primary }
 

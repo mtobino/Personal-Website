@@ -1,5 +1,5 @@
 # Projects
-![Generic Pic](../img/ProjectPic.jpg){ align=right width="400" }
+![Generic Pic](../content/img/ProjectPic.jpg){ align=right width="400" }
 There are many projects I would like to share, but since they are school projects, I have to keep their code repositories private. By building this website, I am able to 
 show off these projects without giving away the answers that the professors would like to keep hidden. This website will be my place to show off my achievements without
 revealing the answers. However, I have been given permission to share the answers with anyone who is not a student of the class the project was in. 

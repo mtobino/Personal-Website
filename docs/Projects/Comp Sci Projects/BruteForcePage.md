@@ -19,18 +19,18 @@ p cnf 5 21
 ```
 The rest of the satisfiable file with 5 variables can be downloaded seen below.
 
-[:material-text: CNF File with 5 variables](../../cnfFiles/s5.cnf){ .md-button .md-button--primary }
+[:material-text: CNF File with 5 variables](../../content/cnfFiles/s5.cnf){ .md-button .md-button--primary }
 
 Another file with 32 variables that is unsatisfiable can be downloaded seen below.
 
-[:material-text: CNF File with 32 variables](../../cnfFiles/u32.cnf){ .md-button .md-button--primary }
+[:material-text: CNF File with 32 variables](../../content/cnfFiles/u32.cnf){ .md-button .md-button--primary }
 
 ## Output
 
 After the code runs, the program will output a message stating if the file was satisfiable, or unsatisfiable. It will also output how long the code took to test that file
 and how long it took to run the entire program. 
 
-![OutputImage](../../img/BruteForceOutput.png)
+![OutputImage](../../content/img/BruteForceOutput.png)
 
 ## Project Link
 

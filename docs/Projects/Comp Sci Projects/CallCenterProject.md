@@ -11,25 +11,25 @@ The program will simulate a call center based on the information gathered from a
 
 ## Input
 <figure markdown>
-  ![GUI Input Image](../../img/GUIInput.png) 
+  ![GUI Input Image](../../content/img/GUIInput.png) 
   <figcaption>The GUI will take in the information necessary</figcaption>
 </figure>
 
 ## Output
 <figure markdown>
-  ![GUI Output Image](../../img/GUIOutput.png)
+  ![GUI Output Image](../../content/img/GUIOutput.png)
   <figcaption>Program Output Displayed on the GUI</figcaption>
 </figure>
 
 <figure markdown>
-  ![GUI Table Image](../../img/GUITable.png)
+  ![GUI Table Image](../../content/img/GUITable.png)
   <figcaption>Deeper Look at the Customers Table</figcaption>
 </figure>
 
 ## Documentation and Report
 The final report and documentation to the project can be downloaded or viewed below.
 
-[:material-file-pdf-box: Download/View Report](../../pdfs/Call%20Center%20Deliverable.pdf){ .md-button .md-button--primary }
+[:material-file-pdf-box: Download/View Report](../../content/pdfs/Call%20Center%20Deliverable.pdf){ .md-button .md-button--primary }
 
 ## Project Link
 Project is open and available to the public.

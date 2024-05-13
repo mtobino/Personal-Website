@@ -7,16 +7,16 @@ create a working scale. The scale must have two buttons, one for taring and anot
 ## Final Product Drawing
 SolidWorks CAD drawing can be downloaded or viewed below.
 
-[:material-file-pdf-box: Download/View](../../pdfs/Tobino_Drawing.PDF){ .md-button .md-button--primary }
+[:material-file-pdf-box: Download/View](../../content/pdfs/Tobino_Drawing.PDF){ .md-button .md-button--primary }
 
 
 ## Actual Final Product
-![Picture of Scale](../../img/Tobino_ScalePhoto.JPG)
+![Picture of Scale](../../content/img/Tobino_ScalePhoto.JPG)
 
 ## Instruction Manual
 Instruction manual can be downloaded or viewed below.
 
-[:material-file-pdf-box: Download/View](../../pdfs/Tobino_Calibration.pdf){ .md-button .md-button--primary }
+[:material-file-pdf-box: Download/View](../../content/pdfs/Tobino_Calibration.pdf){ .md-button .md-button--primary }
 
 ## Code
 The project code is in a private repository at a professor's request because it is a school project but can be shared if requested.

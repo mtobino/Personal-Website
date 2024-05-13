@@ -1,7 +1,7 @@
 site_name: Matthew Tobino
 theme:
   name: material
-  favicon: img/favicon.ico
+  favicon: content/img/favicon.ico
   icon:
       logo: material/alpha-t-circle
   features:
@@ -54,6 +54,11 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/matthew-tobino-704a631b8/
 
+plugins:
+  - mkdocs-video:
+      is_video: True
+      video_muted: True
+      video_controls: True
 
 # Future Copyright?
 copyright: |

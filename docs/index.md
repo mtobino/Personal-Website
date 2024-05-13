@@ -1,13 +1,13 @@
 # Home
 
-![ProfilePic](img/ProPhoto.jpg){ align=right width="200" }
-I am a senior at Rowan University pursuing a Bachelor's Degree in Computer Science. I originally started out as a Mechanical Engineering Student, but I found I 
+![ProfilePic](content/img/ProPhoto.jpg){ align=right width="200" }
+I am recent graduate from Rowan University with a Bachelor's Degree in Computer Science and a Concentration in Software Engineering. I originally started out as a Mechanical Engineering Student, but I found I 
 had a greater aptitude for coding than physics. However, that did not stop me from succeeding in the engineering courses as I have maintained Dean's List throughout every 
-semester so far. I feel taking these engineering classes helped me to have an open mind toward my coding and helped me to tackle my problems in a better and more
-efficient manner. 
+semester. I feel taking these engineering classes helped me to have an open mind toward my coding and helped me to tackle my problems in a better and more
+efficient manner. I have graduated Summa Cum Laude and members of Upsilon Pi Epsilon and Pi Mu Epsilon.
 
 ## Resume
-[:material-file-pdf-box: Resume](pdfs/Resume.pdf){ .md-button .md-button--primary }
+[:material-file-pdf-box: Resume](content/pdfs/Resume.pdf){ .md-button .md-button--primary }
 
 
 ## Skills
